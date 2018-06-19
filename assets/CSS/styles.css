@@ -1,5 +1,14 @@
 #wrapper {
     padding: 50px;
+    border: 4px solid rgba(0,0,05);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    box-shadow: inset 0 0 15px black;
+    
+    
+    
     
 }
 
@@ -9,3 +18,27 @@ p {
     padding: 10px;
     font-weight: bold;
 }
+
+.jumbotron {
+    background-image: url(../images/trainstation.jpg);
+    background-position: -250px -425px;
+}
+
+#h1background {
+    margin-left: 350px;
+    margin-right: 350px;
+    background: black;
+    opacity: .8
+}
+
+h1{
+    font-size: 75px
+}
+
+#h1text{
+    color: white;
+    font-weight: bold;
+     
+
+}
+
